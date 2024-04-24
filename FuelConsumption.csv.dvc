@@ -1,0 +1,5 @@
+outs:
+- md5: 2ac81720cecd5879fe90f9b91f0d2e5d
+  size: 34843
+  hash: md5
+  path: FuelConsumption.csv
